@@ -1,0 +1,44 @@
+# Unity generated
+/Library/
+/Temp/
+/Build/
+/Builds/
+*.csproj
+*.sln
+*.suo
+*.user
+*.unityproj
+*.booproj
+.vs/
+.vscode/
+
+# Generated files
+/obj/
+/bin/
+*.exe
+*.dll
+*.pdb
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+
+# Dependencies
+node_modules/
+packages/
+
+# Build outputs
+/Builds/
+/Build/
+*.app
+*.ipa
+*.apk
+
+# Logs
+*.log
